@@ -32,3 +32,5 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+# so that your Git settings aren’t pushed to Github.[Link](https://docs.mage.ai/development/git/configure#generate-ssh-token)
+.preferences.yaml
