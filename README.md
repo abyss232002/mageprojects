@@ -1,2 +1,2 @@
-# mazeprojects
-This repository is for sample maze solutions
+# mageprojects
+This repository is for sample mage solutions
